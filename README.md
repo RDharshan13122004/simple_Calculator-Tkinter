@@ -4,7 +4,10 @@ This project is a basic calculator application built using Python and the Tkinte
 
 ## Demo Video
 
-![Demo Video](assets/demo.mp4)
+<video width="640" height="360" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 You can see how the calculator works in the demo video above.
 

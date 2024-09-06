@@ -4,6 +4,10 @@ from tkinter import *
 
 root = Tk()
 
+#bachground color to GUI
+
+root.configure(bg='#424141')
+
 #title
 title = root.title("simple calculator")
 

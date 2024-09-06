@@ -98,7 +98,7 @@ button_subraction = Button(root,text="-",padx=40,pady=20,background='#2e2e2e',fg
 button_multiplication = Button(root,text="*",padx=40,pady=20,background='#2e2e2e',fg='#FFFFFF',command=multiplication)
 button_division = Button(root,text="/",padx=40,pady=20,background='#2e2e2e',fg='#FFFFFF',command=division)
 button_equalto = Button(root,text="=",padx=39,pady=54,background='#2e2e2e',fg='#FFFFFF',command=equallto)
-button_clear = Button(root,text="Clear",padx=79,pady=20,command=clear)
+button_clear = Button(root,text="Clear",padx=79,pady=20,background='#ff0303',fg='#FFFFFF',command=clear)
 
 #put the button into the screen in grid format
 

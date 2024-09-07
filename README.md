@@ -2,11 +2,9 @@
 
 This project is a basic calculator application built using Python and the Tkinter library for the graphical user interface (GUI). The calculator performs fundamental arithmetic operations, including addition, subtraction, multiplication, and division.
 
-## Demo Video
+## Screenshots
 
-[Watch the demo video](assets/demo.mp4)
-
-You can see how the calculator works in the demo video above.
+<p><img src="assets/Screenshot 2024-09-07 223120.png" alt="calculator img"></p>
 
 ## Features
 

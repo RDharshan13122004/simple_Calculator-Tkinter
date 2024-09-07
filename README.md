@@ -52,10 +52,10 @@ This project is a basic calculator application built using Python and the Tkinte
 Here is a small code snippet illustrating how the buttons are created and placed in the grid:
 
 ```python
-button_1 = Button(root, text="1", padx=40, pady=20, command=lambda: button_click(1))
+button_1 = Button(root, text="1", padx=40, pady=20,background='#2e2e2e',fg='#FFFFFF',command=lambda: button_click(1))
 button_1.grid(row=3, column=2)
 
-button_addition = Button(root, text="+", padx=40, pady=20, command=addition)
+button_addition = Button(root, text="+", padx=40, pady=20,background='#2e2e2e',fg='#FFFFFF',command=addition)
 button_addition.grid(row=4, column=0)
 ```
 

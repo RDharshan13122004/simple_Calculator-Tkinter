@@ -10,7 +10,7 @@ root.configure(bg='#424141')
 
 #title
 title = root.title("simple calculator")
-root.iconbitmap("simple_Calculator-Tkinter/assets/calculator-icon_34473.ico")
+root.iconbitmap("C:/Users/dharshan/Desktop/git/simple_Calculator-Tkinter/cal.ico")
 
 #input field and view
 
